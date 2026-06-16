@@ -43,6 +43,7 @@
   "dependencies": {
     "@stdlib/assert-is-error": "^0.2.3",
     "@stdlib/blas-base-shared": "^0.2.1",
+    "@stdlib/math-base-assert-is-nanf": "^0.2.3",
     "@stdlib/napi-argv": "^0.2.3",
     "@stdlib/napi-argv-int64": "^0.2.3",
     "@stdlib/napi-argv-strided-booleanarray": "github:stdlib-js/napi-argv-strided-booleanarray#main",
