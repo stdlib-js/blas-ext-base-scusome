@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`6cfefb7`](https://github.com/stdlib-js/stdlib/commit/6cfefb714d4e4468c01c9096eba103ce110082cb) - **docs:** make notes consistent _(by Athan Reines)_
 -   [`e2ff56d`](https://github.com/stdlib-js/stdlib/commit/e2ff56d2b1cc5baf269c4a4426cb32a487b4294f) - **fix:** ensure consistent behavior between JavaScript and C [(#12901)](https://github.com/stdlib-js/stdlib/pull/12901) _(by Muhammad Haris)_
 -   [`34f2e8b`](https://github.com/stdlib-js/stdlib/commit/34f2e8b225a824c7377bab95dd9ebf409bf3622f) - **docs:** update require order in examples [(#12876)](https://github.com/stdlib-js/stdlib/pull/12876) _(by Philipp Burckhardt, Athan Reines)_
 -   [`d3273eb`](https://github.com/stdlib-js/stdlib/commit/d3273eb1d4114973f9af8d49dc8f16110438213c) - **feat:** add `blas/ext/base/scusome` [(#12717)](https://github.com/stdlib-js/stdlib/pull/12717) _(by Muhammad Haris, Athan Reines)_
